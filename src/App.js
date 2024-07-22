@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Nav from "./components/Nav.js"
 import Intro1 from './components/Intro1';
